@@ -30,5 +30,5 @@ class GitHub{
 
 
 
-//end GITHUB class
+//end GITHUB classs
 }
